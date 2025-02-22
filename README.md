@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @slegga
-- 👀 I’m interested in Perl, boardgames, politics, sience
-- 🌱 I’m currently learning High Charts
-- 💞️ I’m looking to collaborate when I sometime in the future put something on CPAN
+- 👀 I’m interested in Java, Rust, boardgames, politics, sience and a former Perl develpoper.
+- 🌱 I’m currently learning Docker and Java
 - 📫 How to reach me: Create a change request or some how on github.
 
 <!---
