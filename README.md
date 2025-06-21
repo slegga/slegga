@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slegga
-- 👀 I’m interested in Java, Rust, boardgames, politics, sience and a former Perl develpoper.
-- 🌱 I’m currently learning Docker and Java
+- 👀 I’m interested in Java, Python, boardgames, politics, sience and a former Perl develpoper.
+- 🌱 I’m currently learning Docker, Java and Python
 - 📫 How to reach me: Create a change request or some how on github.
 
 <!---
